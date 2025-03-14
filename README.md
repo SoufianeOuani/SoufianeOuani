@@ -16,7 +16,7 @@ Languages: C++, JavaScript, Python.
 
 Front-end: HTML, CSS, BootStrap, JavaScript.
 
-BAck-End: MySQL, Php.
+Back-End: MySQL, Php.
 
 Problem-Solving & Algorithms: C++, python, JavaScript.
 
