@@ -1,4 +1,4 @@
-👋 Hi, I'm Sofiane Ouanani!
+👋 Hi, I'm Soufiane Ouani!
 I'm a Digital Development Student passionate about programming and problem-solving. I enjoy learning new technologies and working on small projects to apply my skills.
 
 🔹 Learning Journey:
