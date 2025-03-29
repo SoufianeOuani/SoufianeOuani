@@ -15,7 +15,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/ouani-soufiane-6b140033a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.facebook.com/https://www.facebook.com/share/1BUXEqebD6/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/soufiane_ouani_?igsh=aXB1cHM2MzFxODBq" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SoufianeOuani &show_icons=true&locale=en" alt="SoufianeOuani " /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoufianeOuani &" alt="SoufianeOuani " /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoufianeOuani &show_icons=true&locale=en&layout=compact" alt="SoufianeOuani " /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SoufianeOuani " alt="SoufianeOuani " /></a></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=SoufianeOuani&show_icons=true&locale=en" alt="SoufianeOuani" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SoufianeOuani&" alt="SoufianeOuani" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoufianeOuani&show_icons=true&locale=en&layout=compact" alt="SoufianeOuani" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SoufianeOuani" alt="SoufianeOuani" /></a></p>
